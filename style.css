@@ -1,10 +1,29 @@
 iframe{
     border: 0;
 }
-img{
-    max-width: 90%;
-    opacity: 0.5;
+
+.child-service{
+    text-align: center;
+    background: #1b1464;
+    padding: 45px 25px;
+    color: #fff;
 }
-img:hover{
-    opacity: 1;
+.child-service h2{
+    font-family:'Courier New', Courier, monospace ;
+    font-size: 35px;
+    margin-bottom: 0;
+}
+.child-service a{
+    display: inline-block;
+    margin-top: 15px;
+    background: #f79f1f;
+    color: #fff;
+    font-size: 14px;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 15px;
+}
+img{
+    width: 150px;
+    height: 200px;
 }
