@@ -27,3 +27,25 @@ img{
     width: 150px;
     height: 200px;
 }
+.new-div{
+    width:500px;
+    height: 500px;
+    background: rgb(28, 28, 197, 0.3);
+    margin-top: 20px;
+    border-radius: 50%;
+    
+}
+.new-div{
+    width: 200px;
+    height: 200px;
+    background: rgb(251, 108, 108,);
+    margin-top: 20px;
+    border-radius: 50%;
+    
+}
+h2{
+    border: 10px solid brown;
+    border-style: groove;
+    border-style: outset;
+
+}
